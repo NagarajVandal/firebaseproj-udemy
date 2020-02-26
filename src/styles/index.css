@@ -97,6 +97,7 @@ input {
 .divider {
   margin-left: 0.25rem;
   color: black;
+  display: inline-block;
 }
 
 .link {
